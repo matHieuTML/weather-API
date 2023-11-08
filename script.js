@@ -1,6 +1,6 @@
 "use strict";
 
-const key = "3cff5c5329fafec53f16e1cc163bc643";
+const key = "YOUR_ACCESS_TOKEN";
 let ville = document.getElementById("ville"),
     temperature = document.getElementById("temperature"),
     weather = document.getElementById("weather"),
